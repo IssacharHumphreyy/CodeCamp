@@ -11,7 +11,7 @@ h2 {
 }
 
 h3 { 
-      color: Lime ;
+      color:Black ;
 }
 
 h4 {
@@ -19,11 +19,11 @@ h4 {
 }
 
 p {
-      color:White;
+      color:Green;
 }
 
 body {
-      background-color: Black;
+      background-color: LimeGreen;
       padding-top:70px;
       position: relative;
 }
@@ -41,7 +41,7 @@ body {
 } 
 
 img {
-      max-width: 25%;
+      max-width: 50%;
 }
 
 .navbar-default {
