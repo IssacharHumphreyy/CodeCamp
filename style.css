@@ -14,3 +14,50 @@ h1 { color: DarkGreen; }
 body {
   position: relative;
 }
+
+h2 {
+      color: LawnGreen ;
+}
+
+h3 { 
+      color: Lime ;
+}
+
+h4 {
+      color:Black;
+}
+
+p {
+      color:White;
+}
+
+body {
+      background-color: Black;
+      padding-top:70px;
+      position: relative;
+}
+
+#container 
+{ 
+   position: relative 
+} 
+
+#navigation 
+{ 
+   position: absolute; 
+   left: 30px; 
+   top: 5px 
+} 
+
+img {
+      max-width: 25%;
+}
+
+.navbar-default {
+      background-color:Black;
+      border-color:$bgHighlight;
+}
+
+.well {
+      background:Green;
+}
