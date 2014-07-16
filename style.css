@@ -41,6 +41,10 @@ body {
    top: 5px 
 } 
 
+h1 {
+    text-shadow: 5px 5px 5px Green;
+}
+
 img {
       max-width: 50%;
 }
